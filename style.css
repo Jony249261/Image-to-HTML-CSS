@@ -1,0 +1,196 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;line-height:18px;}
+.template{max-width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+.headersection {
+  background: none repeat scroll 0 0 #000000;
+  color: #FFFFFF;
+}
+.title {
+  float: left;
+  width: 400px;
+}
+.title h2 {
+  padding: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.menu {
+  float: right;
+  font-size: 18px;
+  margin-top: 30px;
+  width: 432px;
+  color: white;
+}
+.menu ul{
+	list-style:none;
+}
+.menu ul li {
+  display: inline;
+  padding: 5px;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: white;
+}
+.menu ul li a:hover{
+	color:blue;
+}
+.maincontentsection {
+}
+.title1 {
+  margin: 20px;
+}
+.title1 h2 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 32px 3px 0;
+}
+.title1 h3 {
+  border-bottom: 3px solid;
+  color: #83BBBB;
+  font-size: 20px;
+  padding: 11px 3px 15px;
+}
+.description{
+	margin:20px;
+}
+.description p {
+  border-bottom: 3px solid #83BBBB;
+  font-size: 20px;
+  margin-left: 0;
+  padding: 10px 1px 18px;
+  line-height: 24px;
+}
+.services {
+  border-bottom: 2px solid #7B7B7B;
+  margin: 20px;
+  color:white;
+}
+.jony{}
+.content {
+  background: none repeat scroll 0 0 #0000FF;
+  float: left;
+  margin-right: 40px;
+  margin-top: 5px;
+  width: 266px;
+  margin-bottom: 18px;
+}
+.content h2 {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid white;
+  margin: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.content p {
+  padding: 10px;
+  text-align: center;
+}
+.readmore {
+  margin: 20px;
+  background: #7B7B7B;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.readmore p{}
+.content p a{}
+.project{
+	margin:20px;
+}
+.client{
+	float:left;
+}
+.client h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 11px;
+}
+.images{}
+.images p {
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+.images img {
+  float: left;
+  height: 113px;
+  margin-bottom: 13px;
+  margin-right: 13px;
+  width: 80px;
+}
+.des{}
+.des p{}
+.name{}
+.name h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.name p{}
+.total {
+  width: 460px;
+}
+.feature {
+  float: right;
+  width: 440px;
+}
+.feature h2 {
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+.feature p {
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.image1{}
+.image1 h2 {
+  border: 2px solid #ECECEC;
+  font-size: 23px;
+  margin-bottom: -1px;
+  padding: 9px;
+}
+.image1 p{
+}
+.description1{
+	float:left;
+}
+.description1 p {
+  float: left;
+  font-size: 15px;
+  line-height: 20px;
+  padding: 8px;
+  width: 290px;
+}
+.special {
+  background: none repeat scroll 0 0 #FF9D44;
+  height: 80px;
+}
+.logo {
+  float: right;
+}
+.logo img {
+  float: right;
+  width: 118px;
+  border: 1px solid orange;
+  margin: 7px;
+}
+.last{}
+.last ul {
+  list-style: none;
+}
+.last ul li {
+  display: inline;
+  margin-left: 40px;
+  margin-right: 56px;
+}
+.footer {
+  background: #7B7B7B;
+}
+.footer p {
+  text-align: center;
+  padding: 15px;
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+}
